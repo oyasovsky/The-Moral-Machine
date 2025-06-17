@@ -1,0 +1,8 @@
+{
+  "id": "self_driving_crash_001",
+  "title": "Self-Driving Car Crash",
+  "summary": "An autonomous vehicle chose to swerve into one pedestrian to avoid killing five passengers.",
+  "ai_action_log": "Based on pre-programmed safety protocols, the AI assessed the risk and made a utilitarian decision to prioritize passenger lives.",
+  "background": "This decision has sparked ethical controversy regarding value of life, AI agency, and risk models.",
+  "tags": ["autonomous vehicles", "utilitarianism", "ethics"]
+}
